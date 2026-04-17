@@ -1,4 +1,5 @@
 # Pensamiento Computacional
-## bitacora del ramo pensamiento computacional.
+
+Bitacora del ramo pensamiento computacional.
 
 ## Primer ejercicio de codigo
