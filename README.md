@@ -3,4 +3,7 @@
 Bitacora del ramo pensamiento computacional.
 
 ## Primer ejercicio de codigo
-![kepa](github/bender.jpeg)
+
+poner una imagen via archivo local:
+
+![bender](github/bender.jpeg)
