@@ -2,8 +2,12 @@
 
 Bitacora del ramo pensamiento computacional.
 
-## Primer ejercicio de codigo
+# Solemne II: Codigo Interactivo
 
-poner una imagen via archivo local:
+# Nombre del proyecto: WASD
 
-![bender](github/bender.jpeg)
+**Autor:** Matías Padilla
+
+## Referentes
+
+Para la solemne II de pensamiento computacional usé como referente el diseño 
