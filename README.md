@@ -4,7 +4,7 @@ Bitacora del ramo pensamiento computacional.
 
 # Solemne II: Codigo Interactivo
 
-# Nombre del proyecto: WASD
+## Nombre del proyecto: WASD
 
 **Autor:** Matías Padilla
 
