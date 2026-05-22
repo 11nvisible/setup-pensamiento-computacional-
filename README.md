@@ -54,7 +54,7 @@ Estas fueron las primeras pruebas de inputs para poder desactivar los colores de
 colores rgb a un fondo el cual funciona con blancos y negros. Como solución opté por cambiar a color blanco el relleno y trazo de los círculos en vez
 de hacer un cambio en el background.
 
-# **CODIGO:**
+# **Código:**
 
 //variables
 let columnas;let filas;
@@ -92,16 +92,16 @@ function draw() {
   
   //en este caso necesito que se repitan las columnas para así tener los círculos alineados a través de todo el canva.
   
- for (let i=0; i<columnas; i++){
+   for (let i=0; i<columnas; i++){
    tamaño[i] = [];
    for(let j=0; j<filas; j++){
      
-     //utilicé el comando dist para el momento en el que se mueva el mouse se vayan achicando los círculos cercanos.
-     tamaño[i][j] = (dist(mouseX, mouseY, i*espaciado, j*espaciado))*escala;
-     stroke(R,G,B);
-     fill(r,g,b);
-     ellipse(espaciado/2 + i*espaciado, espaciado/2 + j*espaciado, tamaño[i][j]);
-    }  
+  //utilicé el comando dist para el momento en el que se mueva el mouse se vayan achicando los círculos cercanos.   
+  tamaño[i][j] = (dist(mouseX, mouseY, i*espaciado, j*espaciado))*escala;
+  stroke(R,G,B);
+  fill(r,g,b);
+  ellipse(espaciado/2 + i*espaciado, espaciado/2 + j*espaciado, tamaño[i][j]);
+     }  
    }
  } 
 
@@ -134,7 +134,6 @@ function keyPressed(){
     B = 255;
   }
 }
-
 ## Diagrama de flujo:
 
 ![diagrama](registro/diagrama.png)
