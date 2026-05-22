@@ -8,7 +8,7 @@ Bitacora del ramo pensamiento computacional.
 
 **Autor:** Matías Padilla
 
-**LINK:** [link](https://editor.p5js.org/INVISIBLE/sketches/Y6NFY6kmh)
+**LINK:** [p5.js](https://editor.p5js.org/INVISIBLE/sketches/Y6NFY6kmh)
 
 ## Descripción objetiva:
 
