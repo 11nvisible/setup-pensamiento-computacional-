@@ -8,6 +8,35 @@ Bitacora del ramo pensamiento computacional.
 
 **Autor:** Matías Padilla
 
+## Descripción:
+
+Con los referentes en mente, ideé una manera para llegar al resultado que necesitaba, para esto debía hayar
+la forma para posicionar correctamente los círculos en todo el canvas, para esto, utilicé una herramienta
+vista en clases la cual era el nested loop for(let), esto me permite hacer repeticiones de elementos las veces que
+considere necesaria.
+
+![explicacion1](registro/explicacion3.png)
+
+Con esta secuencia utilizando las variables que asigné para columnas y filas en el loop hice que se repartieran los circulos
+de manera ordenada alrededor de todo el canvas. También hice que las elipses estuvieran en modo CENTER, para que así cada una
+se posicionara automaticamente centradas y no tener que estar asignando el eje X e Y.
+
+![ellipse](registro/explicacion2.png)
+
+En cuanto a inputs, hice uso de varios, entre estos el uso del mouse, el cual cumple la función de ir deformando las grillas,
+haciendo que los elementos ubicados dentro de esta se achiquen (output), también están los inputs de uso de teclas, tales como
+las teclas 'WASD', estas cumplen principalmente la función de cambiar los colores de los círculos, por ejemplo; la tecla **'A'**
+cambia los colores del relleno de los círculos y la tecla **'D'** cambia el color del trazo de estos. En cuanto a la funcionalidad
+de las teclas W y S, la primera se encarga de "desactivar" los colores del relleno, y la segunda cumple lo mismo pero con los trazos.
+
+![explicación3](registro/explicacion4.png)
+
+Esto funciona a través de variables, donde r,g y b son los encargados de cambiar especificamente los colores de relleno de los círculos,
+y los R,G y B se encargan del color de los trazos de estos.
+
+![explicacion4](registro/explicacion1.png)
+
+
 ## Referentes
 
 Para la solemne II de pensamiento computacional usé como referente el diseño Op art.
@@ -19,11 +48,3 @@ Para la solemne II de pensamiento computacional usé como referente el diseño O
 ![referente2](registro/referente2.jpg)
 
 ![referente3](registro/referente3.jpg)
-
-Con los referentes en mente, ideé una manera para llegar al resultado que necesitaba, para esto debía hayar
-la forma para posicionar correctamente los círculos en todo el canvas, para esto, utilicé una herramienta
-vista en clases la cual era el nested loop for(let), esto me permite hacer repeticiones de elementos las veces que
-considere necesaria.
-
-![explicacion1](registro/explicacion3)
-
