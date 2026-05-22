@@ -43,7 +43,7 @@ y los R,G y B se encargan del color de los trazos de estos.
 En esta imagen se puede ver como intenté hacer variaciones en el color del background, pero simplemente no resultó como quería, así que
 lo descarté.
 
-![colores](error_desactivar_colores.png)
+![colores](registro/error_desactivar_colores)
 
 Estas fueron las primeras pruebas de inputs para poder desactivar los colores de los rellenos y trazos, por lo que se puede ver intenté asignarle
 colores rgb a un fondo el cual funciona con blancos y negros. Como solución opté por cambiar a color blanco el relleno y trazo de los círculos en vez
