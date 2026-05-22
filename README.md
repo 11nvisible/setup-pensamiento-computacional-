@@ -10,4 +10,10 @@ Bitacora del ramo pensamiento computacional.
 
 ## Referentes
 
-Para la solemne II de pensamiento computacional usé como referente el diseño 
+Para la solemne II de pensamiento computacional usé como referente el diseño Op art.
+
+**Algunos de los referentes en los que me inspiré para realizar el trabajo fueron los siguientes:**
+
+![referente1](registropc/referente1.jpg)
+
+![referente21](registropc/referente2.jpg)
