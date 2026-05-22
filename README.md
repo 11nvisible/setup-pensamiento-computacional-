@@ -8,7 +8,7 @@ Bitacora del ramo pensamiento computacional.
 
 **Autor:** Matías Padilla
 
-## Descripción:
+## Descripción objetiva:
 
 Con los referentes en mente, ideé una manera para llegar al resultado que necesitaba, para esto debía hayar
 la forma para posicionar correctamente los círculos en todo el canvas, para esto, utilicé una herramienta
@@ -36,15 +36,37 @@ y los R,G y B se encargan del color de los trazos de estos.
 
 ![explicacion4](registro/explicacion1.png)
 
+**Algunos procesos que no salieron como quería pero dejé registro para documentar:**
+
+![background](registro/intento_de_cambio_de_background.png)
+
+En esta imagen se puede ver como intenté hacer variaciones en el color del background, pero simplemente no resultó como quería, así que
+lo descarté.
+
+![colores](error_desactivar_colores.png)
+
+Estas fueron las primeras pruebas de inputs para poder desactivar los colores de los rellenos y trazos, por lo que se puede ver intenté asignarle
+colores rgb a un fondo el cual funciona con blancos y negros. Como solución opté por cambiar a color blanco el relleno y trazo de los círculos en vez
+de hacer un cambio en el background.
+
+## Descripción conceptual:
 
 ## Referentes
 
-Para la solemne II de pensamiento computacional usé como referente el diseño Op art.
+Para la solemne II de pensamiento computacional usé como referente el diseño Op art y Cinetic Art.
 
 **Algunos de los referentes en los que me inspiré para realizar el trabajo fueron los siguientes:**
 
+David Mrugala (diseñador y artista)
 ![referente1](registro/referente1.jpg)
 
+Cristina Hauk (artista)
 ![referente2](registro/referente2.jpg)
 
+Seth Nickerson (diseñador)
 ![referente3](registro/referente3.jpg)
+
+El principio de diseño que se explora en este caso es el del uso de las figuras primales para generar movimiento sinestésico, esto siendo visto
+y estudiado desde los inicios de la Bauhaus por academicos como Wassily Kandinsky, Paul Klee y Gertrud Grunow.
+
+
