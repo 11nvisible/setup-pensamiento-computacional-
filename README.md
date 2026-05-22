@@ -58,12 +58,15 @@ Para la solemne II de pensamiento computacional usé como referente el diseño O
 **Algunos de los referentes en los que me inspiré para realizar el trabajo fueron los siguientes:**
 
 David Mrugala (diseñador y artista)
+
 ![referente1](registro/referente1.jpg)
 
 Cristina Hauk (artista)
+
 ![referente2](registro/referente2.jpg)
 
 Seth Nickerson (diseñador)
+
 ![referente3](registro/referente3.jpg)
 
 El principio de diseño que se explora en este caso es el del uso de las figuras primales para generar movimiento sinestésico, esto siendo visto
